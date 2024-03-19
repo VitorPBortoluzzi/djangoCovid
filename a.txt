@@ -1,0 +1,3 @@
+python projet\manage.py runserver
+python projet\manage.py makemigrations medicamento
+python projeto\manage.py migrate
